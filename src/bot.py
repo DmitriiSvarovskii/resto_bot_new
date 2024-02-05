@@ -6,7 +6,7 @@ import os
 from aiogram import Bot, Dispatcher
 
 from config import BOT_TOKEN
-from handlers import register_user_commands
+from src.handlers import register_user_commands
 # from keyboards import set_main_menu
 
 
